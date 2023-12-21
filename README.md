@@ -1,8 +1,8 @@
 
-- 👋 <span style="font-family: 'American Type';">Hi, I’m Nidu Rasnayake</span>
+- 👋 Hi, I’m Nidu Rasnayake
 - 👀 I’m interested in computers and electronics 
 - 🌱 I’m currently learning electrical and electronic engineering 
-- 📫 How to reach me: Linkedin
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nidu-rasnayake-37479124b/)
 
 
 <!---
